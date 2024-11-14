@@ -1,3 +1,4 @@
+//SIGIT PRAPANCA XI TAV 3
 #define MQ2_PIN 4
 void setup() {
  Serial.begin(115200);
